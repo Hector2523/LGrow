@@ -1,0 +1,9 @@
+["Project"]
+
+name = "Hello World :)"
+
+description = "A basic code in LGrow :)"
+
+version = "0.1 beta"
+
+main = "main.lgw"
