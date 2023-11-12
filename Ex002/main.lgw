@@ -1,0 +1,7 @@
+import "fmt";
+getPackage CLang;
+import "teste.h" using CLang;
+
+void main() {
+    teste.teste();
+}
